@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Crimson Text', serif;
+    background-color: #f1eeea;
+}
+#edit{
+   width: 400px;
+   height: 300px;
+}
+span{
+    color: goldenrod;
+}
